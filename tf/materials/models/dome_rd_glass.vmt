@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture	glass\glasswindow004a
+	$translucent	1
+	$surfaceprop	glass
+	$envmap		env_cubemap
+	$envmapfresnel	1
+	$envmapfresnelminmaxexp	[0 1 2]
+}

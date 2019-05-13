@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture	metal\imetal003
+	$bumpmap	metal\imetal001_normal
+	$surfaceprop	metal
+}
