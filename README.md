@@ -10,18 +10,18 @@
 
 ## To do
 
-* Fix the areaportals
-* Finish the dome
-* Finish RED side
-* "INCOMING SHIP" plate with an on/off style
-* Detailing
+- [ ] Fix the areaportals
+- [ ] Finish the dome
+- [ ] Finish RED side
+- [ ] "INCOMING SHIP" plate with an on/off style
+- [ ] Detailing
 
 ## Good ideas
 
 * Edit the map one-at-a-time
-** Let us know if you're working on it
-** Give us a deadline
+  * Let us know if you're working on it
+  * Give us a deadline
 * Try using this git thing?
 * We're working on RED first, then mirroring it to BLU(?)
 * Put the dome in the skybox
-** Watch the env_cubemap!
+  * Watch the env_cubemap!
