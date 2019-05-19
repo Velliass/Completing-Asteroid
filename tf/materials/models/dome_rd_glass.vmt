@@ -4,6 +4,5 @@ VertexLitGeneric
 	$translucent	1
 	$surfaceprop	glass
 	$envmap		env_cubemap
-	$envmapfresnel	1
-	$envmapfresnelminmaxexp	[0 1 2]
+	$envmaptint	[ .05 .05 .2]
 }
