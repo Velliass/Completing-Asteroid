@@ -22,6 +22,5 @@
   * Let us know if you're working on it
   * Give us a deadline
 * Try using this git thing?
-* We're working on RED first, then mirroring it to BLU(?)
 * Put the dome in the skybox
   * Use an env_cubemap!
