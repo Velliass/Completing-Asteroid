@@ -1,7 +1,6 @@
 # Dome Model
 
-This is the dome protecting players from the vacuum of space. According to concept art, it should be within the outer pits and intersect the 
-buildings, but we thought it's too much of a bother.
+This is the dome protecting players from the vacuum of space. According to concept art, it should be within the outer pits and intersect the buildings, but we thought it's too much of a bother.
 
 So we're putting it in the skybox.
 
