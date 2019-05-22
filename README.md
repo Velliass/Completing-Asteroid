@@ -3,10 +3,11 @@
 ## Folder navigation
 
 * **full compile** - ??
-* **quick compile** - The vmf was last found here (May 2019)
+* **quick compile** - Ignore the .vmf in there
 * **screenshots** - WIP images
 * **tf** - Contains everything that should go into the packed end product
 * **sources** - Various stuff needed to make the shipped stuff
+  * The map .vmf is here!
 
 ## To do
 
