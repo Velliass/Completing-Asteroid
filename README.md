@@ -2,8 +2,8 @@
 
 ## Folder navigation
 
-* **full compile** - ??
-* **quick compile** - Ignore the .vmf in there
+* **full compile** - An old map compile. Igore.
+* **quick compile** - An old map compile. Igore.
 * **screenshots** - WIP images
 * **tf** - Contains everything that should go into the packed end product
 * **sources** - Various stuff needed to make the shipped stuff
